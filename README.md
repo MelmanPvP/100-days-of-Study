@@ -1,1 +1,4 @@
-# 100-days-of-Study
+#100-days-of-Study
+Day 1/100
+Сегодня изучил теорию CSS-in- JS(библиотеки Styled Components и Reflexbox), 
+а также начал изучать CSS анимации(познакомился со свойством transition). Надеюсь завтра выйдет позаниматься побольше
